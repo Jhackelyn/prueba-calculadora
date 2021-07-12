@@ -25,4 +25,8 @@
 	{
 		return pow($a,$b);
 	}
+	function resto ($a, $b)
+	{
+		return $a%$b;
+	}
 ?>
