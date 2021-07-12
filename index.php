@@ -17,4 +17,8 @@
 	{
 		return $a/$b;
 	}
+	function potencia($a,$b)
+	{
+		return pow($a,$b);
+	}
 ?>
